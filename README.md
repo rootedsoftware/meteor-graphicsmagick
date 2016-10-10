@@ -16,7 +16,7 @@ Then make sure you are also making a volume available to docker if you want to m
     
 Here is my who mup.js file for reference. 
 
-
+```
 module.exports = {
   servers: {
     one: {
@@ -59,3 +59,4 @@ module.exports = {
     },
   },
 };
+```
