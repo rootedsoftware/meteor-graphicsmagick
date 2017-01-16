@@ -14,7 +14,7 @@ Then make sure you are also making a volume available to docker if you want to m
       "/opt/uploads": "/uploads"
     },
     
-Here is my who mup.js file for reference. 
+Here is my whole mup.js file for reference. 
 
 ```
 module.exports = {
