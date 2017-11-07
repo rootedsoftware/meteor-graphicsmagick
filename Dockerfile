@@ -5,5 +5,3 @@ graphicsmagick \
 graphicsmagick-imagemagick-compat \
 && apt-get clean \
 && rm -rf /var/lib/apt/lists/*
-
-RUN curl -o- -L https://yarnpkg.com/install.sh | bash
